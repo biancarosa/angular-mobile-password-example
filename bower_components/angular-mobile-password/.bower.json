@@ -1,0 +1,36 @@
+{
+  "name": "angular-mobile-password",
+  "authors": [
+    "Bianca Rosa <me@biancarosa.com.br>"
+  ],
+  "description": "better password fields",
+  "main": "directive.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "password"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/biancarosa/angular-mobile-password",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.0.6"
+  },
+  "version": "0.0.0",
+  "_release": "0.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.0",
+    "commit": "92f9e85dfcf971951432f71c3e8fe9074185ab95"
+  },
+  "_source": "git://github.com/biancarosa/angular-mobile-password.git",
+  "_target": "0.0.0",
+  "_originalSource": "angular-mobile-password"
+}

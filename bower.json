@@ -1,0 +1,12 @@
+{
+  "name": "angular-mobile-password",
+  "authors": [
+    "Bianca Rosa <me@biancarosa.com.br>"
+  ],
+  "description": "example for angular-mobile-password package",
+  "private": true,
+  "dependencies" :  {
+    "angular": "~1.0.6",
+    "angular-mobile-password" : "0.0.0"
+  }
+}
